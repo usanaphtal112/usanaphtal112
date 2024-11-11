@@ -8,7 +8,7 @@
 Data Science & AI enthusiast with a strong foundation in research and practical implementation. Currently pursuing B.Tech in Artificial Intelligence and Data Science at KL University.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usa-naphtal/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://bit.ly/3UKQLGn)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://naphtal-portfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usanaphtaI112@gmail.com)
 
 ## 🛠️ Tech Stack
@@ -38,6 +38,26 @@ Data Science & AI enthusiast with a strong foundation in research and practical 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usanaphtal112&theme=radical" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usanaphtal112&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/usanaphtal112/face-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=face-recognition&theme=radical" />
+  </a>
+  <a href="https://github.com/usanaphtal112/ecommerce-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=ecommerce-api&theme=radical" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/usanaphtal112/gan-image-generation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=gan-image-generation&theme=radical" />
+  </a>
+  <a href="https://github.com/usanaphtal112/stock-prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=stock-prediction&theme=radical" />
+  </a>
 </div>
 
 
