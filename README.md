@@ -40,26 +40,6 @@ Data Science & AI enthusiast with a strong foundation in research and practical 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usanaphtal112&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/usanaphtal112/face-recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=face-recognition&theme=radical" />
-  </a>
-  <a href="https://github.com/usanaphtal112/ecommerce-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=ecommerce-api&theme=radical" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/usanaphtal112/gan-image-generation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=gan-image-generation&theme=radical" />
-  </a>
-  <a href="https://github.com/usanaphtal112/stock-prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usanaphtal112&repo=stock-prediction&theme=radical" />
-  </a>
-</div>
-
 
 ---
 <div align="center">
